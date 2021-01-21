@@ -1,2 +1,2 @@
 # inicio
-Meu primeiro repositorio
+Aprendendo a usar o github, primeiro repositorio
